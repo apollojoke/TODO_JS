@@ -19,7 +19,7 @@ JS homework for JS session
 
 References:
 1. jQuery (这里有一个交互式的学习jQuery的网站：http://try.jquery.com/)
-2. jasmine （一个JavaScript的BDD测试框架：http://pivotal.github.io/jasmine/）
+2. jasmine （一个JavaScript的BDD测试框架：https://jasmine.github.io/）
 3. jasmine + jQuery (使用jasmine来测试jQuery代码：https://github.com/velesin/jasmine-jquery)
 
 请在本周五之前提交代码，我们会查看你的提交，并在session中作出更有针对性的解释和讲解。
